@@ -2,6 +2,7 @@
 This project aims to develop a comprehensive POS system using Python programming language and Tkinter framework for the graphical user interface (GUI). In addition to Tkinter, we're utilizing Tkinter Designer for efficient UI design and Figma for collaborative design prototyping. This POS system will offer a user-friendly interface for both cashiers and administrators, facilitating tasks such as product registration, inventory management, sales reporting, and payment processing. With a focus on usability, scalability, and reliability.
 ***************************************************
 # USER INTERFACE
+*******************
 1. Design layout and wireframes for cashier interface.
 2. Create UI components for product scanning and quantity input.
 3. Develop UI for applying discounts and loyalty program integration.
@@ -13,6 +14,7 @@ This project aims to develop a comprehensive POS system using Python programming
 
 ************************************************************
 # INVENTORY
+************************
 Design product database schema.
 Develop CRUD operations for product management.
 Implement barcode scanning functionality.
@@ -24,6 +26,7 @@ Implement inventory reconciliation feature.
 Conduct stress testing for scalability.
 ******************************************************
 # PAYMENT PROCESSING
+***************************************
 Research and select payment gateways.
 Integrate payment gateway APIs.
 Implement encryption for secure transmission.
@@ -35,6 +38,7 @@ Test payment processing with various methods.
 Obtain PCI DSS compliance.
 ******************************************************
 # TRACKING
+**************************
 Design budget management interface.
 Develop backend logic for budget categories.
 Implement UI for assigning budgets.
@@ -46,6 +50,7 @@ Develop reporting functionality.
 Implement multi-user access control.
 ****************************************************
 # REPORTING/ANALYTICS
+**************************************
 Design data schema for sales and inventory.
 Develop backend processes for aggregating sales data.
 Implement reporting UI for sales reports.
@@ -58,6 +63,7 @@ Conduct A/B testing.
 ****************************************************
 
 # SECURITY
+****************************************
 Conduct security risk assessment.
 Implement encryption for sensitive data.
 Develop user authentication and authorization.
@@ -74,6 +80,7 @@ INTEGRATION
 ************************************
 
 #SCALABILITY
+*************************************
 Design distributed architecture.
 Implement microservices architecture.
 Develop auto-scaling mechanisms.
@@ -86,7 +93,8 @@ Monitor system performance metrics.
 ********************************************
 
 #CUSTOMER SUPPORT/MAINTENANCE
-Develop knowledge base and FAQs.
+*******************************************
+Develop knowledge base and \b FAQs.
 Provide user training sessions.
 Implement ticketing system for support requests.
 Develop SLA for response times.
