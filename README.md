@@ -2,14 +2,14 @@
 This project aims to develop a comprehensive POS system using Python programming language and Tkinter framework for the graphical user interface (GUI). In addition to Tkinter, we're utilizing Tkinter Designer for efficient UI design and Figma for collaborative design prototyping. This POS system will offer a user-friendly interface for both cashiers and administrators, facilitating tasks such as product registration, inventory management, sales reporting, and payment processing. With a focus on usability, scalability, and reliability.
 ***************************************************
 # USER INTERFACE
-Design layout and wireframes for cashier interface.
-Create UI components for product scanning and quantity input.
-Develop UI for applying discounts and loyalty program integration.
-Implement payment processing UI with various payment method options.
-Design admin dashboard layout for inventory management.
-Create UI components for adding, editing, and removing products.
-Develop UI for generating sales reports and analytics.
-Implement UI for viewing product details and stock levels.
+1. Design layout and wireframes for cashier interface.
+2. Create UI components for product scanning and quantity input.
+3. Develop UI for applying discounts and loyalty program integration.
+4. Implement payment processing UI with various payment method options.
+5. Design admin dashboard layout for inventory management.
+6. Create UI components for adding, editing, and removing products.
+7. Develop UI for generating sales reports and analytics.
+8. Implement UI for viewing product details and stock levels.
 
 ************************************************************
 # INVENTORY
