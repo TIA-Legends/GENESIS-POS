@@ -75,11 +75,11 @@ Implement logging and auditing.
 Train employees on security best practices
 *****************************************************
 
-INTEGRATION
+# INTEGRATION
 ************************************
 ************************************
 
-#SCALABILITY
+# SCALABILITY
 *************************************
 Design distributed architecture.
 Implement microservices architecture.
@@ -92,7 +92,7 @@ Optimize codebase for efficiency.
 Monitor system performance metrics.
 ********************************************
 
-#CUSTOMER SUPPORT/MAINTENANCE
+# CUSTOMER SUPPORT/MAINTENANCE
 *******************************************
 Develop knowledge base and \b FAQs.
 Provide user training sessions.
